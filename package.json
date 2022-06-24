@@ -1,0 +1,22 @@
+{
+  "name": "recururs3lff00l",
+  "version": "1.0.0",
+  "description": "learning tool for recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athinimafu/recururs3lff00l.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athinimafu/recururs3lff00l/issues"
+  },
+  "homepage": "https://github.com/athinimafu/recururs3lff00l#readme",
+  "devDependencies": {
+    "electron": "^19.0.6"
+  }
+}
